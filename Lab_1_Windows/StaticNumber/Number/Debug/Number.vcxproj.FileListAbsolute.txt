@@ -1,0 +1,2 @@
+C:\Users\Xiaomi\source\repos\StaticNumber\Debug\Number.pdb
+C:\Users\Xiaomi\source\repos\StaticNumber\Number\Debug\Number.pdb

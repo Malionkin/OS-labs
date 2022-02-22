@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (NumberClient.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  NumberClient.cpp
+C:\Users\Xiaomi\source\repos\StaticNumber\NumberClient\NumberClient.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Xiaomi\source\repos\StaticNumber\Vector\Vector.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Xiaomi\source\repos\StaticNumber\Vector\Vector.h(16,11): warning C4251: Vector::x: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+C:\Users\Xiaomi\source\repos\StaticNumber\Number\Number.h(4): message : см. объявление "Number"
+C:\Users\Xiaomi\source\repos\StaticNumber\Vector\Vector.h(16,14): warning C4251: Vector::y: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+C:\Users\Xiaomi\source\repos\StaticNumber\Number\Number.h(4): message : см. объявление "Number"
+  NumberClient.vcxproj -> C:\Users\Xiaomi\source\repos\StaticNumber\Debug\Show.exe
